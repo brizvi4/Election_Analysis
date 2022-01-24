@@ -36,13 +36,13 @@ By using my coding knowledge, I printed out the results on the terminal. After t
 
 ## Election Audit Summary
 
-A good advantage of this Python code is that it can be used for other elections as well. For instance, all the variables we created for the candidates and counties can also be used for other candidates and counties. After using the csv.reader function and applying the file path, one can use the same for if statements for other elections. I am talking about the for and if statements shown in the below photos:
+A good advantage of this Python code is that it can be used for other elections as well. For instance, all the variables we created for the candidates and counties can also be used for other candidates and counties. After using the csv.reader function and applying the file path, one can use the same for if statements for other elections. Howwver, here I am also making the assumption that the format for the csv file (which contains the election results) is the same for other elections as well. Please see the for and if statements shown in the below photos:
 
 ![image](https://user-images.githubusercontent.com/95254809/150721042-9322b2bf-40fa-4cb4-8b37-82b5d0f3b4a0.png)
 
 ![image](https://user-images.githubusercontent.com/95254809/150721068-63ea675f-6910-42bd-a98f-39b5cf0ed11b.png)
 
-In order to print the results to a text file, one can first open the file using the write function and specifying the path where the want to the text file to be present in. And then the same print statements can be used to print out the counrt election results. Please see the below photos for reference. 
+In order to print the results to a text file, one can first open the file using the write function and specifying the path where the want to the text file to be present in. And then the same print statements can be used to print out the county election results. Please see the below photos for reference. 
 
 ![image](https://user-images.githubusercontent.com/95254809/150721268-f9255f82-f593-47c0-9ab9-18797b252b59.png)
 
